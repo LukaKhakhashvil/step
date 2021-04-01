@@ -1,0 +1,14 @@
+	#wrapper{
+		border: solid white;
+		background-color: yellow;
+		position: fixed;
+		top: 50%;
+		bottom: 50%;
+		height: 50px;
+        width: 100%;
+		padding: 15px;
+		margin: auto;
+	}
+.rating{
+	text-align: center;
+}

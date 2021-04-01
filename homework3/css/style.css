@@ -1,0 +1,27 @@
+h1{
+	text-align: center;
+	font-size: 30px;
+}
+.details{
+	font-weight: bold;
+}
+ol{
+	list-style-type: upper-roman;
+}
+table{
+	display: inline-block;
+	border: 1px solid;
+	border-collapse: collapse;
+}
+tr, th, td{
+	border: 1px solid;
+}
+th{
+  background-color: #A9A9A9;
+}
+.jami{
+	background-color: #E8E8E8
+}
+.produqti{
+	background-color: red
+}
